@@ -1,0 +1,4 @@
+variables:
+- team: Training-CloudBees
+- admin-user: jdsolisxz-admin
+- manager-user: jdsolisxz
